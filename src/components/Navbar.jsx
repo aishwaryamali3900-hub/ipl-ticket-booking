@@ -12,7 +12,7 @@ function Navbar() {
         <Link to="/booking">Book Ticket</Link>
         <Link to="/history">Booking History</Link>
       </div>
-    </nav>
+    </nav> 
   );
 }
 export default Navbar;
